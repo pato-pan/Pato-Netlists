@@ -11,3 +11,10 @@ fbi.paydaythegame.com
 (\.|^)gradio\.live$
 (\.*|^)proxy\.startpage\.com$
 .*\.itch\.io
+meta.superuser.com
+meta.stackexchange.com
+launchermeta.mojang.com
+meta.quiltmc.org
+piston-meta.mojang.com
+mirror.metalgamer.eu
+qc.ib.metapix.net
