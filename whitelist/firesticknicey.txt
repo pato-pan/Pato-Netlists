@@ -1,3 +1,13 @@
 # By PatoPan.
 # Homepage: https://github.com/pato-pan/Pato-Netlists
 # Last updated: 18 Jul 2024 00:46 UTC
+# Allows only apps I like. Note: Main menu will be inaccessible, use app settings to open apps.
+# Currently only covers SmartTube(Possibly YouTube as well)
+
+github.com
+
+# SmartTube
+www.youtube.com
+i.ytimg.com
+i\d\.ytimg\.com
+sponsor.ajay.app
