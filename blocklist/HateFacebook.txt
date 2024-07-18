@@ -1,6 +1,7 @@
 # By PatoPan.
 # Homepage: https://github.com/pato-pan/Pato-Netlists
 # Last updated: 18 Jul 2024 00:46 UTC
+# Blocks any domain that could in any way be related to Facebook or Meta. I believe Facebook is the biggest crime when it comes to privacy infringement, so I never touch it. This will have many false positives, since any websites that even the same words facebook has used in their domains will also be blocked. Should be used alongside my facebook casualties whitelist. This list is done thanks to looking at other blocklists that block facebook, among some speculative and not backed up assumptions I make. This is the strictest anti-facebook blocklist you will ever find.
 # This is a work in progress. Untested, with no knowledge of abp style blocklists but relies on it's limtied support on pi-hole. Where the heck is the documentation for the regex that I can use on this thing???
 # May lack things related to AI. Last update was when virtual reality was at it's peak.
 ||calibra^
