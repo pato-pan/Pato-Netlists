@@ -1,1 +1,19 @@
-
+# By PatoPan.
+# Homepage: https://github.com/pato-pan/Pato-Netlists
+# Last updated: 18 Jul 2024 00:46 UTC
+# This is a work in progress. Untested, with no knowledge of abp style blocklists but relies on it's limtied support on pi-hole. Where the heck is the documentation for the regex that I can use on this thing???
+# May lack things related to AI. Last update was when virtual reality was at it's peak.
+||calibra^
+||whatsapp^
+||facebook^
+||fb^
+||freebasics^
+||giphy^
+||instagram^
+||internet^
+||messenger^
+||meta^
+||oculus^
+||addtoany^
+||hootsuite^
+||viz^
