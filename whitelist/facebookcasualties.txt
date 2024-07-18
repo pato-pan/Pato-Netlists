@@ -1,3 +1,11 @@
 # By PatoPan.
 # Homepage: https://github.com/pato-pan/Pato-Netlists
 # Last updated: 18 Jul 2024 00:46 UTC
+(\.|^)googlevideo\.com$
+[A-Za-z0-9]+\.cloudfront\.net
+fbi.paydaythegame.com
+.*\.fandom\.com
+^dual\.part-[0-9]+\.t-[0-9]+\.fb-t-msedge\.net$
+(\.|^)gradio\.live$
+(\.*|^)proxy\.startpage\.com$
+.*\.itch\.io
