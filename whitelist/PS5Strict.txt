@@ -1,4 +1,35 @@
 # By PatoPan.
 # Homepage: https://github.com/pato-pan/Pato-Netlists
 # Last updated: 18 Jul 2024 00:46 UTC
+# Allows only what I need from PS5. FYI, I mostly play games offline. You are also able to stream on YT (only YT).
 # I disable some of these when they are not needed anymore.
+
+# Unsure.
+ps5.np.playstation.net # This one covers trophies, broadcasting, etc
+
+# Trophy images
+image.api.playstation.com
+psnobj.prod.dl.playstation.net # Trophy pop-up icons
+# Trophy hint videos
+[A-Za-z0-9]+\.cloudfront\.net	
+
+# Playstation Network
+fus01.ps5.update.playstation.net
+
+# YouTube Broadcast
+appinfo.dl.playstation.net # Maybe more, could be all playstation network app services
+www.googleapis.com
+a.rtmp.youtube.com # Streaming address
+
+# Playstation Profile Picture
+kfs.api.np.km.playstation.net
+# Account Settings
+id.sonyentertainmentnetwork.com	
+# Additional avatars pics
+static-resource.np.community.playstation.net
+
+# Connection test
+ena.net.playstation.net	# Internet test
+post.net.playstation.net # Upload Speed Test
+gst.prod.dl.playstation.net # Download Speed Test
+us.np.stun.playstation.net # NAT Type check
