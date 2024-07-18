@@ -1,3 +1,133 @@
 # By PatoPan.
 # Homepage: https://github.com/pato-pan/Pato-Netlists
 # Last updated: 18 Jul 2024 00:46 UTC
+^pivot-ha.\\.cloudmosa\\.net$ # Windscribe login
+^store.\\.gofile\\.io$ # File Hosting Download
+^cdn-...\\.anonfiles\\.com$ # File Hosting Download
+(\\.|^)supabase\\.co
+civitai-delivery-worker-prod\\.[A-Za-z0-9]+\\.r2\\.cloudflarestorage\\.com # cloudflare
+civitaics510.wpc.edgecastcdn.net # Twitter
+a.w.bilicdn1.com # Bilibili
+static.twitchcdn.net # Twitch
+spade.twitch.tv # Twitch
+static-cdn.jtvnw.net # Twitch
+usher.ttvnw.net # Twitch
+s.youtube.com # Youtube
+www.behindthename.com # behindthename
+cs531.wpc.edgecastcdn.net # Twitter video
+chrt.fm # Stitcher Podcasts
+injector.simplecastaudio.com # Stitcher Podcasts
+injected.simplecastaudio.com # Stitcher Podcasts
+translate.google.com # Google Translate
+api.pinterest.com # Pinterest
+cdn.bluestacks.com # Bluestacks
+64.media.tumblr.com # Tumblr images
+community.akamai.steamstatic.com # steam community
+newassets.hcaptcha.com # MeWe hcaptcha
+s.pximg.net # Pixiv
+i.pximg.net # Pixiv images
+cs196.wac.edgecastcdn.net # Twitter images
+s.pinimg.com # Pinterest
+haproxy-edge.vm.wyz-general.gcp.wyzant.net # Wyzant design
+static1.dmcdn.net # Dailymotion
+a.fsdn.com # sourceforge fonts
+secure.gravatar.com # Gravatar (used in many websites)
+ptb.discord.com # Discord ptb
+520553-1656414-raikfcquaxqncofqfm.stackpathdns.com # Stackpathdns provides design for many site
+fonts.gstatic.com # Google Fonts
+cdn.ampproject.org # Wordpress Images
+www.gravatar.com # Gravatar (used in many websites)
+files.catbox.moe # Video and image hosting
+login.live.com # Microsoft login
+answers.microsoft.com # Microsoft Answers
+cock.li # Cock email
+memeware.net # Memeshit
+support.microsoft.com # Microsoft Support
+newgrounds.io # Newgrounds api
+www.solidbackgrounds.com # Solid Backgrounds
+camo.mmcdn.com # Chaturbate images
+js.media-lab.ai # Imgur design
+justrandomthings.com
+www.msftconnecttest.com # Windows connection test
+hack.chat # HackChat
+shink.me # Link Shortener
+eu-srv.apptornado.com # Some Websites
+eu-srv2.apptornado.com # Some Websites
+cd.textfiles.com # Downloads
+hades.getsocial.im # FNAF SpecialDelivery
+connect.tapjoy.com # Mobile ads
+rpc.tapjoy.com # Mobile ads
+placements.tapjoy.com # Mobile ads
+content.tapjoy.com # Mobile ads
+ws.tapjoyads.com # Mobile ads
+smarturl.it # URL Shortener for self-promo
+js.datadome.co # Patreon Bot Detection Button
+api-js.datadome.co # Patreon Bot Detection Button
+r3.o.lencr.org # Etsy
+captcha.px-cdn.net # TextNow Captcha
+client.px-cloud.net # TextNow Captcha
+bitcoin.org # Bitcoin Official
+go.microsoft.com # Microsoft url shortener
+dn-staticdown.qbox.me # Patreon Captcha
+pagead2.googlesyndication.com # Added from Query Log
+geolocation.onetrust.com # Soundcloud
+s.pwt.soundcloud.com # Soundcloud Captcha
+t.co # Twitter Shortener
+googleads.g.doubleclick.net # Google Ads
+configv2.unityads.unity3d.com # ai dungeon ads
+csi.gstatic.com # Ai Dungeon ads rewards
+a.sankakucomplex.com # Sankaku Web Design
+a.realsrv.com # Sankaku Web Design
+thebestvpn.com # Blocklist project sucks
+codepush.appcenter.ms # Added from Query Log
+www.g2a.com # Added from Query Log
+trinitymedia.ai # Twitter Bot Podcast
+g.ezoic.net # Akinator
+en.akinator.mobi.cdn.ezoic.net # Akinator
+onedrive.live.com # One Drive
+r.stripe.com # Stripe Payment Processor
+binarytactics.com # AlarmDocs
+www.zero2000.com # Free TTS, not a virus
+services.fandom.com # Fandom login
+anonfiles.com # File Hosting Website
+pixeldrain.com # File Hosting Website
+gravatar.com # Added from Query Log
+en.gravatar.com # Added from Query Log
+appsitemsuggest-pa.googleapis.com # Added from Query Log
+www.proxifier.com # BlockListProject False
+assets-prd.ignimgs.com # IGN images
+kraken.ignimgs.com # IGN images
+assets-prod.sumo.prod.webservices.mozgcp.net # Firefox CSS
+v.redd.it # Reddit Videos
+www.techtarget.com
+ephemeralcounters.api.roblox.com # Roblox tracker (may crash)
+ecsv2.roblox.com # Roblox tracker (may crash)
+storeedgefd.dsx.mp.microsoft.com # Windows Store (VM)
+locale.roblox.com # Roblox Start
+store-images.s-microsoft.com # Windows Store (VM)
+img-prod-cms-rt-microsoft-com.akamaized.net # Windows Store (VM)
+pesterclinkaltogether.com # Added from Query Log
+linkspy.cc # Link Shortener, shitty
+clk.asia # link shortener?
+askubuntu.com # Oisd? wow
+api-secure.solvemedia.com # Captcha
+analytics.twitter.com # Added from Query Log
+video-edge-7371eb.pdx01.abs.hls.ttvnw.net # Twitch Stream
+eye.swfchan.com # Added from Query Log
+email.mailgun.patreon.com # patreon verify email
+atomicwallet.io # Added from Query Log
+ajax.googleapis.com # Sometimes block filters will wake up and choose violence and block all js cdn just because some of it is used to serve ads. Doesn't always need to be enabled.
+cdn.jsdelivr.net # Sometimes block filters will wake up and choose violence and block all js cdn just because some of it is used to serve ads. Doesn't always need to be enabled.
+new.lewd.ninja # Added from Query Log
+vk.com # Added from Query Log
+ouo.io # Added from Query Log
+hide.me # Added from Query Log
+login.microsoftonline.com # Microsoft Forums (even if logging in is not required)
+hyperfollow.com # Not Physhing
+img1.blogblog.com # Added from Query Log
+1.gravatar.com # Added from Query Log
+2.gravatar.com # Added from Query Log
+ocsp.comodoca.com # Added from Query Log
+content.invisioncic.com
+www.nutaku.net # Added from Query Log
+1115546720.rsc.cdn77.org
