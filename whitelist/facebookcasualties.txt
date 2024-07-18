@@ -1,6 +1,8 @@
 # By PatoPan.
 # Homepage: https://github.com/pato-pan/Pato-Netlists
 # Last updated: 18 Jul 2024 00:46 UTC
+# Domains wrongfully removed by my AntiFacebook blocklist.
+
 (\.|^)googlevideo\.com$
 [A-Za-z0-9]+\.cloudfront\.net
 fbi.paydaythegame.com
