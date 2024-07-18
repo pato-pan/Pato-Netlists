@@ -17,3 +17,5 @@
 ||addtoany^
 ||hootsuite^
 ||viz^
+||samsung^
+||ospserver^
