@@ -8,6 +8,8 @@ github.com
 
 # SmartTube
 www.youtube.com
+(\.|^)googlevideo\.com$	
 i.ytimg.com
 i\d\.ytimg\.com
+^yt.\.ggpht\.com$
 sponsor.ajay.app
