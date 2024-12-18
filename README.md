@@ -31,4 +31,4 @@ Installation: Just like any adlist, get the raw link and paste then
 
 HateFacebook: Blocks any domain that could in any way be related to Facebook or Meta. I believe Facebook is the biggest crime when it comes to privacy infringement, so I never touch it. This will have many false positives, since any websites that has any word or acronym related to facebook will also be blocked. Should be used alongside my facebook casualties whitelist. This list is done thanks to looking at other blocklists that block facebook, among some speculative and not backed up assumptions I make. This is the strictest anti-facebook blocklist you will ever find.
 
-NoPan: Domains not blocked by blocklists I use that I want to block. It's very small currently.
+NoPan: Domains not blocked by blocklists I use that I want to block. It's very small.
