@@ -5,6 +5,7 @@ To do:
 - Polishing.
 - reformat for easy install. Only comments break it at the moment
 - add hyperlinks to raw to the below
+- Find an easy copy and paste way to update this.
 
 personal privacy blocklists and whitelists, hopefully you'll find it useful. Made for Pi-Hole
 
